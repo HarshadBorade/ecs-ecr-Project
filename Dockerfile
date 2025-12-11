@@ -1,4 +1,4 @@
-FROM nginx:trixie
+FROM public.ecr.aws/nginx/nginx:latest
 
 LABEL maintainer="Harshad" 
 
